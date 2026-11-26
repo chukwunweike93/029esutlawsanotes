@@ -1,0 +1,20 @@
+{
+  "title": "Class of 2029 Course Notes",
+  "eyebrow": "Faculty of Law · ESUT",
+  "tagline": "Lecture notes as dictated by our lecturers and handwritten by members of our class. Read them, search them, download them.",
+  "levels": [
+    { "id": "100", "folder": "100-level", "subsections": [] },
+    { "id": "200", "folder": "200-level", "subsections": [] },
+    {
+      "id": "300",
+      "folder": "300-level",
+      "subsections": [
+        { "folder": "commercial-law", "name": "Commercial Law" },
+        { "folder": "criminal-law", "name": "Criminal Law" },
+        { "folder": "torts-law", "name": "Torts Law" }
+      ]
+    },
+    { "id": "400", "folder": "400-level", "subsections": [] },
+    { "id": "500", "folder": "500-level", "subsections": [] }
+  ]
+}
